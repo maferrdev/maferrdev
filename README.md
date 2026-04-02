@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7A8C4&size=28&center=true&vCenter=true&width=600&lines=hi,+i'm+fernanda+💗;frontend+developer;building+things+slowly+🌷" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7A8C4&size=28&center=true&vCenter=true&width=600&lines=hi,+i'm+ maria fernanda+;fullstack+developer;building+things+slowly+🌷" />
 </p>
 
 <p align="center">
@@ -14,8 +14,8 @@
 
 ## 🩰 a little about me
 
-𖹭 frontend developer  
-𖹭 finished my degree in 2025
+𖹭 **Backend Developer**
+𖹭 **B.S. in Computer Science (2025)**
 𖹭 i like calm, pretty and simple things  
 
 💭 *"still figuring things out, but that's okay."*
@@ -28,7 +28,7 @@
   <img src="https://media.tenor.com/QrKFS6f2tS8AAAAC/pink-aesthetic.gif" width="200"/>
 </p>
 
-- 💗 soft & minimal interfaces  
+- 💗 **soft & minimal interfaces**
 - 🎮 indie & co-op games  
 - 🎬 slightly weird movies  
 - ☕ coding late at night for no reason  
@@ -37,50 +37,19 @@
 
 ## 💻 stuff i use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs&theme=light" />
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
 ---
 
-## 🌷 currently
-
-𖹭 improving my backend skills  
-𖹭 building small personal projects  
-𖹭 trying to stay consistent  
+## 📈 github stats
 
 <p align="center">
-  <img src="https://media.tenor.com/W7pXr2FZ7lQAAAAC/soft.gif" width="150"/>
-</p>
-
----
-
-## 🧠 small thoughts
-
-- i overthink my code sometimes  
-- i like when things feel soft and clean  
-- still learning, still trying  
-
----
-
-## 📊 just a little stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=maferrdev&show_icons=true&title_color=F7A8C4&icon_color=F7A8C4&text_color=ffffff&bg_color=0d1117&border_color=F7A8C4"/>
-</p>
-
----
-
-## 🌸 find me
-
-<p align="center">
-  <a href="www.linkedin.com/in/maria-fernanda-da-silva-sousa">
-    <img src="https://img.shields.io/badge/linkedin-%23f7a8c4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.tenor.com/8qQx9y5RkSMAAAAC/sparkle.gif" width="100"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maferrdev&show_icons=true&theme=rose_pine&hide_border=true&title_color=F7A8C4&icon_color=F7A8C4&text_color=e0def4&bg_color=191724" width="400" />
 </p>
