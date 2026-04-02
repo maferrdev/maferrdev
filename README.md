@@ -15,7 +15,7 @@
 ## 🩰 a little about me
 
 𖹭 frontend developer  
-𖹭 finished my degree (finally 😵‍💫)  
+𖹭 finished my degree in 2025
 𖹭 i like calm, pretty and simple things  
 
 💭 *"still figuring things out, but that's okay."*
